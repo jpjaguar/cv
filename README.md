@@ -110,16 +110,7 @@
                <li> gmail: <a href=""> sjp10@iitbbs.ac.in </a></li>
                <li> adress: <a href="https://en.wikipedia.org/wiki/Guntur"> guntur,Ap </a></li> 
             </ul>
-            <form action=" mail to :sjp10@iitbbs.ac.in"> 
-            <label > Your Name:</label>
-            <input type="text" name="  value">
-            <input type="submit" name=""><br>
-            <label > Your gmail:</label>
-            <input type="gmail" name="  value"><br>
-            <label > Your message:-</label><br>
-            <textarea name="" id="" cols="30" rows="10"></textarea>
-            <input type="submit" name="">
-         </form>
+       
 
 
          </body>
